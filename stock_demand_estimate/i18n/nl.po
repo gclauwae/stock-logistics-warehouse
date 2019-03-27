@@ -60,18 +60,18 @@ msgstr "Datum van"
 #. module: stock_demand_estimate
 #: model:ir.model,name:stock_demand_estimate.model_date_range
 msgid "Date Range"
-msgstr ""
+msgstr "Datumbereik"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_sheet_date_range_type_id
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_wizard_date_range_type_id
 msgid "Date Range Type"
-msgstr ""
+msgstr "Datumbereik Type"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.menu,name:stock_demand_estimate.menuitem_date_range
 msgid "Date Ranges"
-msgstr ""
+msgstr "Datumbereik"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_wizard_date_end
@@ -87,12 +87,12 @@ msgstr "Datum tot"
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_date_range_days
 msgid "Days between dates"
-msgstr ""
+msgstr "Dagen tussen datums"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.menu,name:stock_demand_estimate.menu_stock_demand_planning
 msgid "Demand Planning"
-msgstr ""
+msgstr "Demand Planning"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_display_name
@@ -105,28 +105,28 @@ msgstr "Te tonen naam"
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_sheet_line_estimate_id
 msgid "Estimate"
-msgstr ""
+msgstr "Schatting"
 
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/wizards/stock_demand_estimate_wizard.py:254
 #, python-format
 msgid "Estimate Sheet"
-msgstr ""
+msgstr "Schatting Tabblad"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_sheet_form
 msgid "Estimated quantity"
-msgstr ""
+msgstr "Geschatte hoeveelheid"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_sheet_line_ids
 msgid "Estimates"
-msgstr ""
+msgstr "Schattingen"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_date_range_id
 msgid "Estimating Period"
-msgstr ""
+msgstr "Geschatte Periode"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_id
@@ -173,12 +173,12 @@ msgstr "Locatie"
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_demand_estimate_wizard_form
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_sheet_form
 msgid "Period"
-msgstr ""
+msgstr "Periode"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_demand_estimate_wizard_form
 msgid "Prepare"
-msgstr ""
+msgstr "Voorbereiden"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_product_id
@@ -192,7 +192,7 @@ msgstr "Product"
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_wizard_product_ids
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_demand_estimate_wizard_form
 msgid "Products"
-msgstr ""
+msgstr "Producten"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_product_uom_qty
@@ -203,50 +203,50 @@ msgstr "Hoeveelheid"
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_daily_qty
 msgid "Quantity / Day"
-msgstr ""
+msgstr "Hoeveelheid / Dag"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,help:stock_demand_estimate.field_stock_demand_estimate_product_qty
 msgid "Quantity in the default UoM of the product"
-msgstr ""
+msgstr "Hoeveelheid in de standaard UoM van het product"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_product_qty
 msgid "Real Quantity"
-msgstr ""
+msgstr "Reële Hoeveelheid"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_search
 msgid "Search Stock Demand Estimates"
-msgstr ""
+msgstr "Zoek Voorraad Demand Schattingen"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_pivot
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_tree
 msgid "Stock Demand Estimate"
-msgstr ""
+msgstr "Voorraad Demand Schatting"
 
 #. module: stock_demand_estimate
 #: model:ir.model,name:stock_demand_estimate.model_stock_demand_estimate
 msgid "Stock Demand Estimate Line"
-msgstr ""
+msgstr "Voorraad Demand Schatting Lijn"
 
 #. module: stock_demand_estimate
 #: model:ir.model,name:stock_demand_estimate.model_stock_demand_estimate_sheet
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_sheet_form
 msgid "Stock Demand Estimate Sheet"
-msgstr ""
+msgstr "Voorraad Demand Schatting Tabblad"
 
 #. module: stock_demand_estimate
 #: model:ir.model,name:stock_demand_estimate.model_stock_demand_estimate_sheet_line
 msgid "Stock Demand Estimate Sheet Line"
-msgstr ""
+msgstr "Voorraad Demand Schatting Tabblad Lijn"
 
 #. module: stock_demand_estimate
 #: model:ir.model,name:stock_demand_estimate.model_stock_demand_estimate_wizard
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_demand_estimate_wizard_form
 msgid "Stock Demand Estimate Wizard"
-msgstr ""
+msgstr "Voorraad Demand Schatting Wizard"
 
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/wizards/stock_demand_estimate_wizard.py:141
@@ -254,12 +254,12 @@ msgstr ""
 #: model:ir.ui.menu,name:stock_demand_estimate.menu_stock_demand_estimate
 #, python-format
 msgid "Stock Demand Estimates"
-msgstr ""
+msgstr "Voorraad Demand Schattingen"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_sheet_line_location_id
 msgid "Stock Location"
-msgstr ""
+msgstr "Voorraad Locatie"
 
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/models/stock_demand_estimate.py:80
@@ -267,35 +267,36 @@ msgstr ""
 msgid ""
 "The requested operation cannot be processed because of a programming error "
 "setting the `product_qty` field instead of the `product_uom_qty`."
-msgstr ""
+msgstr "De gevraagde bewerking kan niet worden verwerkt vanwege een programmeerfout "
+"het veld `product_qty` instellen in plaats van de `product_uom_qty`."
 
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/wizards/stock_demand_estimate_wizard.py:224
 #, python-format
 msgid "The start date cannot be later than the end date."
-msgstr ""
+msgstr "De startdatum kan niet later zijn dan de einddatum."
 
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/wizards/stock_demand_estimate_wizard.py:50
 #, python-format
 msgid "There is no ranges created."
-msgstr ""
+msgstr "Er is geen bereik gecreëerd"
 
 #. module: stock_demand_estimate
 #: model:ir.model.fields,field_description:stock_demand_estimate.field_stock_demand_estimate_product_uom
 msgid "Unit of measure"
-msgstr ""
+msgstr "Maateenheid"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_sheet_form
 msgid "Validate"
-msgstr ""
+msgstr "Valideer"
 
 #. module: stock_demand_estimate
 #: code:addons/stock_demand_estimate/wizards/stock_demand_estimate_wizard.py:241
 #, python-format
 msgid "You must select at least one product."
-msgstr ""
+msgstr "U moet ten minste één product selecteren"
 
 #. module: stock_demand_estimate
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_demand_estimate_wizard_form
@@ -306,4 +307,4 @@ msgstr "of"
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_demand_estimate_wizard_form
 #: model:ir.ui.view,arch_db:stock_demand_estimate.view_stock_demand_estimate_sheet_form
 msgid "to"
-msgstr ""
+msgstr "tot"
